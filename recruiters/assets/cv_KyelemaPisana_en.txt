@@ -1,0 +1,289 @@
+﻿
+
+CURRICULUM VITAE
+Kyelema Pisana
+
+Personal Particulars
+
+Direct: +54 9 354 846 8819
+Whatsapp: +54 9 354 846 8819
+E-mail: kiizaa@gmail.com
+
+Date & Place of Birth: 
+11/09/1979, Sussex, East Sussex
+Place of Residence: Cordoba, Argentina
+
+Salary Requirement: Please refer to my application letter
+Availability Date: Please refer to my application letter
+Profile
+ I have 15 years of experience in software architecture and development. I am proficient in Python, PHP, Java and DevOps practices. I specialize in Data Engineerin, Machine Learning, AWS based services and DevOps related activities. I have extensive hands on experience with DevOps (CI/CD) with MS Azure, Atlassian, AWS DevOps, Jfrog Maven, Gradle GitHub, Bitbucket, Docker, Ansible.
+I believe to be confidant and posses a high personal drive to expand and experience in all fields of Information and Communications Technology (ICT) and our developing technlogical future. I also believe to be an adaptive, motivated, friendly and organized person aspiring to high-caliber professionalism. In addition I have had experience of working on large-scale projects in teams as an independent contractor.
+Career objective
+To obtain a position in a technical field where I can remain a resourceful part of the enterprise, absorbing fresh skills and experience within a growing and challenging environment.  To tackle customer related issues and to give back these aquired skills, in the long run establishing myself as a valuable resource to an organization.
+Skills and Experience 
+A proven track record in picking-up programming languages and code bases to be up to speed in completing deliverables.
+Experience in Java and Python languages.
+Unix /GNULinux experience
+A working knowledge of SQL and noSQL, experience with PostgreSQL, MySQL,,MS SQL Server,  SQLite, Oracle databases, in addition to MongoDB, Cassandra, Spark.
+Mature understanding of OOP and MVC Software Architectures
+Ability to effectively my own workloads and take project ownership from the initial design phase to deployment
+Unit testing and software life-cycles.
+
+Core Skills:
+Development Experience:
+Backend
+API (Rest)
+AJAX
+Microservices
+Data Extraction: Web Crawling / Scraping
+Intallation and Integration
+Docker / Kubernetes
+Azure
+Amazon Web Services
+AWS EC2, Lambda
+Continuous Integration
+DevOps
+
+Programming Languages:
+Python [v2.7, v3.4, pypy]
+Python Django
+Python Flask
+Python Celery, ZeroMQ
+Jupyter (algorithm development/prototyping renamed from ipython notebook)
+Pandas, Numpy (for numerical analysis, operations involving matrices and vectorized functions)
+Cython, Numba, kernprof, line_profiler, memory_profiler (Profiling & Optimizing Python)
+ZMQ, Kafka[Apache] (for message queue requirements)
+UDP messaging (UDP socket programming)
+Puppet (Provisioning in the cloud)
+GIT (SCM)
+SOA (enabling multi-platform/device UI access)
+
+Programming Paradigm:
+Object Oriented Programming (OOP)
+Data Structures
+Design Patterns
+Model View Controller (MVC)
+Model View View-Model (MVVM)
+
+Website Development:
+HTML 5
+CSS 3
+Bootstrap 3 and Bootstrap 4
+JavaScript (JQuery)
+PHP (Laravel. CodeIgniter)
+
+Mobile Application Development
+Android (Native)
+Android Studio
+React Native (for Android and iOS)
+
+
+Databases:
+Relational Databases:
+Microsoft SQL Server-
+MySQL
+Oracle
+PostgresQL
+noSQL Databases:
+MongoDB
+HBase
+
+Compute:
+OpenCL & CUDA (for Parallel compute)
+Spark
+H2O, Tensorflow (Machine Learning)
+H2O on Spark via SparklingWater
+
+Operating Systems:
+Server-side: Unix GNULinux FreeBSD, Debian or Ubuntu, Mac OS X
+
+
+
+I. Professional Experience
+
+Data Engineer
+at QoreLogic
+Cordoba, Argentina
+June 2014 – Present
+Responsible for the development of initial ideas to working prototypes and enhancing existing prototypes in order to bring up-stream feature improvements, server-side algorithm optimizations, significantly reducing performance bottlenecks and improving end-to-end horizontal & vertical scaling.
+Tasks include but not limited to:
+Research and Development (R&D) for Product, including the implementation of Machine Learning, Datamining techniques and methodologies, development of in-house applications to improve processing work-flows and day to day operations.
+Extract, Transform Load (ETL) Development of Mission-critical Data Pipelines
+Data Acquisition and Persistent Storage
+Python, Bash, Linux
+Visualization (Gephi, GraphViz)
+Server Systems Administration & Management
+
+Field Researcher
+at Glovo
+Cordoba, Argentina
+August 2019 – November 2019
+
+Machine Learning & Natural Language Processing (NLP) Engineer
+at Efecto Brazil, S.A
+Buenos Aires, Argentina
+May 2017 – December 2017
+Responsible for the implementation of algorithms relevant to Natural Language Processing (NLP)
+Tasks include but not limited to:
+Development of Python applications including Machine Learning, Data-mining, etc.
+Python, Bash, Linux, HBase
+ElasticSearch, NLTK, 
+AWS, EC2, S3, Hadoop, NLP, Machine Learning, Data-mining
+
+
+Senior Web Developer: Homebounce LLC. – www.homebounce.com
+Menlo Park, CA 
+August 2011 – June 2014
+Responsible for the front-end across the whole development stak. Various GUI enhancements for UI/UX.
+Python, GoogleAppEngine on Google Cloud Computing (GCP), Heroku, Ruby on Rails, customized web applications and front-end widget in JQuery.
+Front-end template engine implemented.
+Django.
+PyTest testing implementation.
+Designed React components for the user and admin Dashboards.
+
+CTO: QoreLogic
+Cordoba, Argentina
+December 2007 – Present
+
+PHP, PostgreSQL Developer: PPI – www.farmship.com
+Augusta,GA
+December 2006 – March 2007
+Responsible for the front-end end various GUI enhancements to improve its usability.
+PHP, PostgreSQL, customized web application developed for farmship.com
+Front-end template engine implemented
+Regression Testing 
+
+PHP/MySQL Developer, Web Developer: Rodeck Solutions – www.radiofence.com
+Montreal, Canada
+March 2006 – June 2006
+Added new modules and features to site according to customer requirements.
+PHP, MySQL, osCommerce and custom scripts.
+Bug tracking and performance optimization.
+
+PHP/MySQL Developer: DLS Digital Corp. 
+New York, NY
+November 2005 – September 2006
+Responsible for program maintenance of  www.forexfactory.com domain; vBulletin forum written in PHP with XML templates.
+PHP, MySQL, XML, vBulletin, phpAdsNew (renamed to OpenX) and custom scripts.
+Worked on the Forex Calendar code and Ad system
+Various deliverables.
+
+
+AJAX PHP/MySQL Developer: Sublime IP Pty. – www.sublimeip.com.au
+Melbourne, Australia
+March 2006 – May 2006
+Developed a web server configuration program for customers to setup, configure and order co-locational and dedicated servers at a web hosting datacenter.
+CSS, PHP, AJAX, XML and MySQL.
+Bug tracking, fixing and testing
+
+PHP Coder: WyWare Inc. – www.wyware.com, www.wypos.com
+Brisbane, Australia
+September 2005 – January 2006
+Responsible for writing scripts guided by a senior programmer.
+Escribir algoritmos y codificar scripts para varios modulos y aplicaciones web.
+Bug tracking and fixing and testing.
+Implementation and roll-out of an AJAX version of the web based POS application.
+
+
+Website Administrator: Harbourlists – www.harbourlists.com, www.mmaco.net
+Mississippi, USA
+July 2005 – July 2006
+Responsible for application maintenance of Harbourlists core Safelist Email Marketing program.
+Escribir algoritmos y codificar scripts para varios modulos y aplicaciones web.
+
+Team Leader – SiS SoftwareFactory S.A. – www.sissoftwarefactory.com, www.ink.ltd.uk (now http://inkaviation.com)
+Buenos Aires, Argentina &  London, UK
+March 2005 – August 2005
+Development and maintenance of PHP 5 web scripts following coding standards set by Ink Ltd. Collaboration to code libraries. Project Management and leading a team of developers.
+Main tasks included:
+Liasing with clients.
+Code Testing, Design Flow, Quality Control
+Translating
+
+Content Developer – E-Academy (T) Ltd.
+Dar es Salaam, Tanzania
+March 2002 – October 2002
+Development of Web applications geared towards online e-learning courses.
+Main tasks included:
+Writing algorithms and coding scripts for various web applications
+Configuring and administering LMS Server Software
+Liaising with content experts
+
+Independent Contractor
+Dar es Salaam, Tanzania
+October 2001 – September 2003
+Main tasks included:
+Web Design and consultancy
+Multimedia (New Media) consultancy.
+Writing CGI scripts.
+Website Management.
+
+Previous clients:
+FEMINA HIP Magazine – East African Movies (T) Ltd.
+Tanzania Investment Guide 2002 – Tanzania Investment Centre (TIC) 
+Infotech – Infotech Investments Group.
+Raha.com – Star Telecom (T) Ltd. www.raha.com
+Sustainable Cities Programme - President’s Office Regional Administration and Local Government.
+tritel - TRI Telecommunications (Tanzania) Ltd.
+
+
+Web Designer
+Dar es Salaam, Tanzania
+September 2000  - May 2001
+Posted as Web designer, in a collaborative project sponsored by UNIDO.  Regular clientele were based in Harare (Zimbabwe) and Amsterdam (Netherlands) while design was executed in Dar es Salaam, liaising via teleconferencing. My main responsibilities included:
+Graphic design of front-end templates to websites
+Designing text and format including animation and logos
+Occasional updating
+Maintenance
+
+Teaching and Network Services
+Dar es Salaam, Tanzania
+January - March 1998
+Gaining practical work experience at Computing Centre (UCC), University of Dar es Salaam (U Dsm). My main responsibilities included:
+Tutoring in Introduction to computers, MS-DOS and MS related applications for part-time students at U Dsm.
+Configuring dial-up connections to UCC’s clients.
+Administering the UCC Mail and Web servers (Unix/Linux and WinNT based).
+Extending network coverage via wireless IP links to external UCC clients to the main U Dsm Campus Area Network fiber -optic backbone.
+
+
+II. Academics
+
+Undergraduate Studies: Universidad Blas Pascal
+Córdoba, Argentina.
+March 2003 – 2007
+B.Tech . Telecommunications Engineering.
+
+
+
+III.  Courses and Seminars
+
+Java  – Object Oriented Ramp-up course.
+April 2005 - May 2005
+Vates S.A. (CMM 3) Software Engineering Consultancy  - Cordoba, Argentina
+www.vates.com
+
+Programacion Web PHP – Nivel Profesional
+September 2004 - October 2004
+Consultora Informatica C.UNIX - Cordoba, Argentina
+
+Japanese Language
+April 2003 - December 2003
+Universidad Blas Pascal – Cordoba, Argentina
+
+PHP & MySQL
+June 2003 - August 2003
+Universidad Blas Pascal – Cordoba, Argentina
+
+III.  Skills and Interests.
+
+Languages
+
+
+V: INFORMÁTICS
+
+
+
+
+
+May 8, 2014
+
