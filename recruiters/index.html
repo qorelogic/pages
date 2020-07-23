@@ -7,7 +7,10 @@
 /*.grid-container0, .grid-container1 {
 	border: solid 1px blue; }
 .grid-container0 .grid-item, .grid-container1 .grid-item {
-	border: solid 1px red; }*/
+	border: solid 1px red; }
+.grid-container1 .grid-item {
+	border: solid 1px #ddd; }
+	*/
 
 /* grid 0 */
 .grid-container0 {
@@ -59,12 +62,13 @@
 /* grid 1 */
 .grid-container1 {
 	margin: 50px 0px;
+	width: 100%;
 	/*display: grid;*/
 	/*display: inline-grid;*/
 	
 	display: grid;
 	grid-template-columns: auto auto;
-	grid-template-rows: 233px 377px;
+	grid-template-rows: 263px auto;
 	  
 	/*justify-content: space-evenly;
 	justify-content: space-around;
@@ -77,12 +81,11 @@
 	grid-row-gap: 13px;
 	grid-gap: 21px 34px;
 
-	width: 100%;
 	} 
   
 .grid-container1 .grid-item {
-	border: solid 1px #ddd;
 	align-content: center !important;
+	/*padding:10px;*/
 	}
 
 
@@ -97,7 +100,7 @@
 	grid-row: 1 / span 4;*/
 } 
 
-.grid-container1 .g3 { grid-area: 2 / 1 / span 1 / span 2; }
+.grid-container1 .g3 { grid-area: 2 / 1 / span 1 / span 1; }
 .grid-container1 .g4 { grid-area: 3 / 1 / span 1 / span 2; }
 .grid-container1 .g5 { grid-area: 4 / 1 / span 1 / span 2; }
 .grid-container1 .g6 { grid-area: 5 / 1 / span 1 / span 2; }
@@ -146,36 +149,50 @@
 <div class="block2">
 -->
 
+<!--
 <div class="block2-1">
 <ul>
-	<li><h1>Recruiters</h1></li>
-	<!-- <li><h2></h2></li>  -->
-	<li class="cv" title="CV" alt="CV"> <img src="images/icons/cv/cv-004.png" /> [ <a href="http://www.qore.in/recruiters/assets/cv_KyelemaPisana_en.doc">doc</a> | 
-	             <a href="http://www.qore.in/recruiters/assets/cv_KyelemaPisana_en.txt">txt</a> ] </li>
-	<li class="call">    <a href="https://calendly.com/kiiza"><img src="images/icons/calendar/schedule-call-icon-4.png" /> </a> </li>
-	<!--<li>  If you wish to schedule an appointment my <a href="https://calendly.com/kiiza/15min">Calendar Invite is here</a> </li>-->
-	<li class="tel"> <a href="tel:03548468819"><img class="w9" title="Call Direct" alt="Call Direct" src="images/icons/phone-02.png" /> 03548468819 </a></li>
-	<li class="tel"> <a href="https://wa.me/5493548468819"><img class="w9" title="Whatsapp" alt="Whatsapp" src="images/icons/Whatsapp-512-01.webp" /> +5493548468819 </a></li>
-	<li class="tel"> Skype ID: qorelogic <!--<a href=""> <img class="w9" title="Skype" alt="Skype" src="" /> </a>--> </li>
+	<li></li>
+	<li></li>
+	<li></li>
+	<li></li>
+	<li></li>
+	<li></li>
 </ul>
-
-<!--<img class="w9" src="images/icons/phone-01.png" />-->
-<!--<img class="w9" src="images/icons/phone-03.png" />-->
-<!--<img class="w9" src="images/icons/whatsapp-02.png" />-->
-
 </div>
+-->
 
 <!--
 </div>
 -->
 
 		</div>
-		<div class="grid-item g4">4</div>
-		<div class="grid-item g5">5</div>
-		<div class="grid-item g6">6</div>
-		<div class="grid-item g7">7</div>
-		<div class="grid-item g8">8</div>
+		<div class="block2-1 grid-item g3">
+	<!-- <li><h2></h2></li>  -->
+<h1>Recruiters</h1>
+		</div>
+
+		<div class="block2-1 grid-item g4">
+	<span class="cv" title="CV" alt="CV"> <img src="images/icons/cv/cv-004.png" /> [ <a href="http://www.qore.in/recruiters/assets/cv_KyelemaPisana_en.doc">doc</a> | 
+	             <a href="http://www.qore.in/recruiters/assets/cv_KyelemaPisana_en.txt">txt</a> ] </span>
+		</div>
+		<div class="block2-1 grid-item g5">
+	<span class="call">    <a href="https://calendly.com/kiiza"><img src="images/icons/calendar/schedule-call-icon-4.png" /> </a> </span>
+	<!--<span>  If you wish to schedule an appointment my <a href="https://calendly.com/kiiza/15min">Calendar Invite is here</a> </span>-->
+		</div>
+		<div class="block2-1 grid-item g6">
+	<span class="tel"> <a href="tel:03548468819"><img class="w9" title="Call Direct" alt="Call Direct" src="images/icons/phone-02.png" /> 03548468819 </a></span>
+		</div>
+		<div class="block2-1 grid-item g7">
+	<span class="tel"> <a href="https://wa.me/5493548468819"><img class="w9" title="Whatsapp" alt="Whatsapp" src="images/icons/Whatsapp-512-01.webp" /> +5493548468819 </a></span>
+		</div>
+		<div class="block2-1 grid-item g8">
+	<span class="tel"> Skype ID: qorelogic <!--<a href=""> <img class="w9" title="Skype" alt="Skype" src="" /> </a>--> </span>
+		</div>
 	</div> 
+<!--<img class="w9" src="images/icons/phone-01.png" />-->
+<!--<img class="w9" src="images/icons/phone-03.png" />-->
+<!--<img class="w9" src="images/icons/whatsapp-02.png" />-->
 
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-172184907-1"></script>
