@@ -3,31 +3,153 @@
 <meta keywords="english, cambridge, tutors, espanol, apoyo, escolar, tutoria, classes, clases, ingles, britanico"></meta>
 <link rel="stylesheet" href="../styles.css">
 <style type="text/css">
+
+/*.grid-container0, .grid-container1 {
+	border: solid 1px blue; }
+.grid-container0 .grid-item, .grid-container1 .grid-item {
+	border: solid 1px red; }*/
+
+/* grid 0 */
+.grid-container0 {
+	/*display: grid;*/
+	/*display: inline-grid;*/
+	
+	display: grid;
+	grid-template-columns: auto auto auto;
+	grid-template-rows: 55px 89px 34px;
+	  
+	/*justify-content: space-evenly;
+	justify-content: space-around;
+	justify-content: space-between;
+	/*justify-content: center;
+	/*justify-content: start;
+	/*justify-content: end;*/
+	
+	grid-column-gap: 21px;
+	grid-row-gap: 13px;
+	grid-gap: 21px 34px;
+
+	width: 100%;
+	} 
+  
+.grid-container0 .grid-item {
+	border: solid 1px #ddd;
+	align-content: center !important;
+	}
+
+.grid-container0 .g1 {
+	/*grid-column-start: 1;
+	grid-column-end: 3;*/
+
+	/*grid-row-start: 1;
+	grid-row-end: 3;*/
+	
+	/*grid-column: 1 / span 1;
+	grid-row: 1 / span 4;*/
+} 
+
+.grid-container0 .g4 {
+   grid-area: 1 / 2 / span 2 / span 1;
+}
+
+.grid-container0 .g9 {
+	grid-column: 1 / span 2;
+}
+
+/* grid 1 */
+.grid-container1 {
+	margin: 50px 0px;
+	/*display: grid;*/
+	/*display: inline-grid;*/
+	
+	display: grid;
+	grid-template-columns: auto auto;
+	grid-template-rows: 233px 377px;
+	  
+	/*justify-content: space-evenly;
+	justify-content: space-around;
+	justify-content: space-between;
+	/*justify-content: center;
+	/*justify-content: start;
+	/*justify-content: end;*/
+	
+	grid-column-gap: 21px;
+	grid-row-gap: 13px;
+	grid-gap: 21px 34px;
+
+	width: 100%;
+	} 
+  
+.grid-container1 .grid-item {
+	border: solid 1px #ddd;
+	align-content: center !important;
+	}
+
+
+.grid-container1 .g1 {
+	/*grid-column-start: 1;
+	grid-column-end: 3;*/
+
+	/*grid-row-start: 1;
+	grid-row-end: 3;*/
+	
+	/*grid-column: 1 / span 1;
+	grid-row: 1 / span 4;*/
+} 
+
+.grid-container1 .g3 { grid-area: 2 / 1 / span 1 / span 2; }
+.grid-container1 .g4 { grid-area: 3 / 1 / span 1 / span 2; }
+.grid-container1 .g5 { grid-area: 4 / 1 / span 1 / span 2; }
+.grid-container1 .g6 { grid-area: 5 / 1 / span 1 / span 2; }
+.grid-container1 .g7 { grid-area: 6 / 1 / span 1 / span 2; }
+.grid-container1 .g8 { grid-area: 7 / 1 / span 1 / span 2; }
+
 </style>
 </head>
 <body>
 
 <div class="container">
 
-<div class="block1">
-<!--
-<img src="images/cambridge/logo/university-of-cambridge-logo.png" />
-<img src="images/cambridge/logo/index.png" />
--->
-<!--<img src="images/cambridge/logo/logo-index.png" />-->
+<!--	<div class="grid-container0">
+		<div class="grid-item g1">1</div>
+		<div class="grid-item g2">2</div>
+		<div class="grid-item g3">3</div>
+		<div class="grid-item g4">4</div>
+		<div class="grid-item g5">5</div>
+		<div class="grid-item g6">6</div>
+		<div class="grid-item g7">7</div>
+		<div class="grid-item g8">8</div>
+		<!--<div class="grid-item g9">9</div>- ->
+	</div> -->
+
+
+<!---<div class="block1">
 <img class="w13" src="images/portfolio/1-OlgqUIhvl5-9dZISlZ2-yQ.jpeg " />
-
-<!-- #bg black <img src="images/cambridge/logo/logo-bg-black-images.png" />-->
-<!--<img id="cmb" class="w13" src="images/portfolio/python-engineer.jpeg" />-->
 <img id="cmb" class="w13" src="images/book/book-002.jpeg" />
-</div>
+</div>-->
 
+	<div class="grid-container1">
+
+		<div class="grid-item g1">
+		
+<img class="w13" src="images/portfolio/1-OlgqUIhvl5-9dZISlZ2-yQ.jpeg " />
+		
+		</div>
+		<div class="grid-item g2">
+
+<img id="cmb" class="w13" src="images/book/book-002.jpeg" />
+
+		</div>
+		<div class="grid-item g3">
+
+<!--
 <div class="block2">
+-->
 
 <div class="block2-1">
 <ul>
 	<li><h1>Recruiters</h1></li>
-	<!-- <li><h2></h2></li> -->
+	<!-- <li><h2></h2></li>  -->
 	<li class="cv" title="CV" alt="CV"> <img src="images/icons/cv/cv-004.png" /> [ <a href="http://www.qore.in/recruiters/assets/cv_KyelemaPisana_en.doc">doc</a> | 
 	             <a href="http://www.qore.in/recruiters/assets/cv_KyelemaPisana_en.txt">txt</a> ] </li>
 	<li class="call">    <a href="https://calendly.com/kiiza"><img src="images/icons/calendar/schedule-call-icon-4.png" /> </a> </li>
@@ -43,7 +165,18 @@
 
 </div>
 
+<!--
 </div>
+-->
+
+		</div>
+		<div class="grid-item g4">4</div>
+		<div class="grid-item g5">5</div>
+		<div class="grid-item g6">6</div>
+		<div class="grid-item g7">7</div>
+		<div class="grid-item g8">8</div>
+	</div> 
+
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-172184907-1"></script>
 <script>
