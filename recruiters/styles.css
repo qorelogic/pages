@@ -147,3 +147,28 @@ background-position: left;
 /*.g2 { background-image: url("images/book/book-002.jpeg"); }*/
 
 
+.tel a {
+	text-decoration: none;
+	color: #000;
+}
+.tel {
+	font-weight: bold;
+	line-height: 30px !important;
+}
+.skp {
+	line-height: 20px !important;
+}
+.tel img {
+	width: 75px !important;
+}
+.wsp img {
+	width: 100px !important;
+}
+.skp img {
+	width: 75px !important;
+}
+.cv { 
+	font-size: 34px;
+	font-weight: bold;
+	}
+
