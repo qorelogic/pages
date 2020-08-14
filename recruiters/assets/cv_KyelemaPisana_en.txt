@@ -16,7 +16,7 @@ Place of Residence: Cordoba, Argentina
 Salary Requirement: Please refer to my application letter
 Availability Date: Please refer to my application letter
 Profile
- I have 15 years of experience in software architecture and development. I am proficient in Python, PHP, Java and DevOps practices. I specialize in Data Engineerin, Machine Learning, AWS based services and DevOps related activities. I have extensive hands on experience with DevOps (CI/CD) with MS Azure, Atlassian, AWS DevOps, Jfrog Maven, Gradle GitHub, Bitbucket, Docker, Ansible.
+Kyelema has approximately seventeen years of software and architecture development experience. He is proficient in Python, Java and DevOps practices, specialing in Data Architecture, Machine Learning, AWS based services and DevOps related technologies. In the past he had leadership roles, leading teams of up to seven Developers. He has extensive hands on experience with DevOps (CI/CD) on MS Azure, Atlassian, AWS DevOps, Jfrog Maven, Gradle GitHub, Bitbucket, Docker, and Ansible .
 I believe to be confidant and posses a high personal drive to expand and experience in all fields of Information and Communications Technology (ICT) and our developing technlogical future. I also believe to be an adaptive, motivated, friendly and organized person aspiring to high-caliber professionalism. In addition I have had experience of working on large-scale projects in teams as an independent contractor.
 Career objective
 To obtain a position in a technical field where I can remain a resourceful part of the enterprise, absorbing fresh skills and experience within a growing and challenging environment.  To tackle customer related issues and to give back these aquired skills, in the long run establishing myself as a valuable resource to an organization.
@@ -31,12 +31,12 @@ Unit testing and software life-cycles.
 
 Core Skills:
 Development Experience:
-Backend
+Back-end
 API (Rest)
 AJAX
-Microservices
+Micro-services
 Data Extraction: Web Crawling / Scraping
-Intallation and Integration
+Installation and Integration
 Docker / Kubernetes
 Azure
 Amazon Web Services
@@ -105,14 +105,14 @@ Data Engineer
 at QoreLogic
 Cordoba, Argentina
 June 2014 – Present
-Responsible for the development of initial ideas to working prototypes and enhancing existing prototypes in order to bring up-stream feature improvements, server-side algorithm optimizations, significantly reducing performance bottlenecks and improving end-to-end horizontal & vertical scaling.
+Responsible for the development of conceptual ideas to working prototypes and enhancing existing prototypes in order to bring up-stream feature improvements, server-side algorithm optimizations, significantly reducing performance bottlenecks and improving end-to-end horizontal & vertical scaling.
 Tasks include but not limited to:
 Research and Development (R&D) for Product, including the implementation of Machine Learning, Datamining techniques and methodologies, development of in-house applications to improve processing work-flows and day to day operations.
-Extract, Transform Load (ETL) Development of Mission-critical Data Pipelines
-Data Acquisition and Persistent Storage
-Python, Bash, Linux
-Visualization (Gephi, GraphViz)
-Server Systems Administration & Management
+Extract, Transform Load (ETL) Development of Mission-critical Data Pipelines.
+Data Acquisition and Persistent Storage.
+Python, Bash, Linux.
+Visualization (Gephi, GraphViz).
+Server Systems Administration & Management.
 
 Field Researcher
 at Glovo
@@ -123,12 +123,12 @@ Machine Learning & Natural Language Processing (NLP) Engineer
 at Efecto Brazil, S.A
 Buenos Aires, Argentina
 May 2017 – December 2017
-Responsible for the implementation of algorithms relevant to Natural Language Processing (NLP)
+Responsible for the implementation of algorithms relevant to Natural Language Processing (NLP).
 Tasks include but not limited to:
 Development of Python applications including Machine Learning, Data-mining, etc.
-Python, Bash, Linux, HBase
-ElasticSearch, NLTK, 
-AWS, EC2, S3, Hadoop, NLP, Machine Learning, Data-mining
+Python, Bash, Linux, HBase.
+ElasticSearch, NLTK.
+AWS, EC2, S3, Hadoop, NLP, Machine Learning, Data-mining.
 
 
 Senior Web Developer: Homebounce LLC. – www.homebounce.com
@@ -137,8 +137,8 @@ August 2011 – June 2014
 Responsible for the front-end across the whole development stak. Various GUI enhancements for UI/UX.
 Python, GoogleAppEngine on Google Cloud Computing (GCP), Heroku, Ruby on Rails, customized web applications and front-end widget in JQuery.
 Front-end template engine implemented.
-Django.
-PyTest testing implementation.
+Python Django.Framework.
+PyTest unit testing implementation.
 Designed React components for the user and admin Dashboards.
 
 CTO: QoreLogic
